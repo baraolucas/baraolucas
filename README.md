@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Barão
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 📚 Estudando linguagens Java, C++ e JavaScript.
+- 📚 Estudando linguagens Java, C e JavaScript.
 - 🚀 Com foco para virar DevFullStack.
 
 <div>
